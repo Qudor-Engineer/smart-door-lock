@@ -1,0 +1,8 @@
+# Arduino build directories & files
+build/
+out/
+.vscode/
+*.bin
+*.elf
+*.hex
+.DS_Store
