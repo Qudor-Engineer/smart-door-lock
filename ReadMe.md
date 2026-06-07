@@ -192,6 +192,17 @@ This execution instruction is positioned at the start of the `loop()` function. 
 
 ## The network configuration paths (`/scan`, `/wifi`, `/save-wifi`) are explicitly blocked during normal operations. If an external user on your home network tries to access these configuration endpoints, the server returns an absolute `403 Forbidden` response. These endpoints unlock **only** when the ESP32 drops its client mode entirely and switches over to an isolated Access Point configuration.
 
+
+---
+
+## 💖 Support & Donation
+
+If you find this project useful and would like to support my work, feel free to make a donation via PayPal! Any support is highly appreciated and helps me build more open-source projects.
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/KHUDHURALFARHAN)
+
+👉 **[Support me on PayPal](https://paypal.me/KHUDHURALFARHAN)**
+
 ---
 
 ## ⚠️ Disclaimer
